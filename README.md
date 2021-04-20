@@ -1,6 +1,6 @@
-# 1ELE713_SEM10_Assignm1_Modelling
+# 1ELE713_SEM11_Prova1
 
-A Lista de exercícios sobre modelagem de sistemas mecânicos e eletônicos encontra-se no arquivo 1ELE713-Sem10-Assignm1-Mechnical_and_electrical_systems_modelling-Lista1.pdf neste repositório.
+Primeira prova de Modelagem de Sistemas Dinâmicos. A prova encontra-se no arquivo 1ELE713-Sem11-Prova1.pdf, neste repositório.
 
 Observações:
 
